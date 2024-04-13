@@ -1,0 +1,7 @@
+id: dimlv74n5i9kwr80nhsbj935jm2sp3awjxakrcbpctlfqmyh
+name: zigzerver
+license: Unlicense
+description: servidor em zig
+root_dependencies:
+
+  - src: git https://github.com/vrischmann/zig-sqlite
